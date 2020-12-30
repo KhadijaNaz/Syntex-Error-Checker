@@ -432,8 +432,8 @@ int main()
     cout << endl << endl;
     cout << endl;
     cout << "KHADIJA NAZ\N";
-    cout << "190834\n";
-    cout << "BSCYS_III_A\N";
+    cout << "ID\n";
+    cout << "Section\N";
     cout << endl << endl;
     cout << endl;
 
